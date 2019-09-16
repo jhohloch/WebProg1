@@ -1,5 +1,5 @@
 <?php
-$Empfaenger = „your.mail@example.com“;
+$Empfaenger = „jannik.hohloch@outlook.de“;
 ?>
 <html>
 <head>
